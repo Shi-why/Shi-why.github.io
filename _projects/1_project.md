@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Nanoparticle mediated clearance of senescent cells
+description: This project involves the synthesis of mesoporous silica nanoparticles that can selectively deliver senolytic to senescent cells.
 img: assets/img/12.jpg
 importance: 1
 category: work
