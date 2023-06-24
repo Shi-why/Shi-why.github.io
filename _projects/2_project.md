@@ -2,7 +2,7 @@
 layout: page
 title: Epigenetics of ER-hormesis in dietary restricted C. elegans
 description: Identifying epigenetic regulators of proteostasis longevity in the Endoplasmic reticulum conferred by dietary restriction. 
-img: assets/img/abstract_NII.jpg
+img: assets/img/ctrl_fused.jpeg
 importance: 2
 category: research
 Location: National Institute of Immunology, New Delhi
@@ -22,6 +22,15 @@ The abstract for the project is shown below.
     Graphical abstract of the project @ NII, New Delhi
 </div>
 
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/abstract_NII.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    abstract of the project @ NII, New Delhi
+</div>
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
