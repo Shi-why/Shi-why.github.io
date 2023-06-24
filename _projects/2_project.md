@@ -8,6 +8,8 @@ category: Research
 Location: National Institute of Immunology, New Delhi
 ---
 
+I have completed the most extensive work during my time at the National Institute of Immunology, New Delhi. This project involved epigenetic regulators of Dietary restriction-mediated longevity of the Unfolded protein response in the Endoplasmic reticulum of C. elegans worms. 
+The abstract for the project is shown below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
