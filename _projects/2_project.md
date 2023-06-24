@@ -2,7 +2,7 @@
 layout: page
 title: Epigenetics of ER-hormesis in dietary restricted C. elegans
 description: Identifying epigenetic regulators of proteostasis longevity in the Endoplasmic reticulum conferred by dietary restriction. 
-img: assets/img/3.jpg
+img: assets/img/abstract_NII.jpg
 importance: 2
 category: research
 Location: National Institute of Immunology, New Delhi
@@ -11,27 +11,15 @@ Location: National Institute of Immunology, New Delhi
 I have completed the most extensive work during my time at the National Institute of Immunology, New Delhi. This project involved epigenetic regulators of Dietary restriction-mediated longevity of the Unfolded protein response in the Endoplasmic reticulum of C. elegans worms. 
 The abstract for the project is shown below.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Graphical_abstract_NII.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Graphical abstract of the project @ NII, New Delhi
 </div>
 
 You can also put regular text between your rows of images.
