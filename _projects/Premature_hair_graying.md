@@ -3,7 +3,6 @@ layout: page
 title: Epidemiology of Premature graying of hair
 description: 
 img: assets/PHG_image.jpg
-redirect: https://unsplash.com
 importance: 3
 category: research
 ---
