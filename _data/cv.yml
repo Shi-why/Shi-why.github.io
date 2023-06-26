@@ -2,96 +2,58 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Shivay Parihar  
     - name: Date of Birth
-      value: 14th March 1879
+      value: 3rd October 1998
     - name: Languages
-      value: English, German
+      value: English, Hindi, Marwari
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
+    - title: M.B.B.S
+      institution: Dr. Sampurnanand Medical College, Jodhpur(Rajasthan University of Health Sciences)
+      year: 2023
+    - title: Federal Teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+      
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Resident intern(Registered for the Rajasthan Medical Council)
+      institution: Dr. Sampurnanand Medical College and group of affiliated hospitals, Jodhpur
+      year: 2022-2023
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018 
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Winner of Poster presentation at the conference of Indian academy of Geriatrics, Jodhpur
+    - year: 2019
       items: 
-        - Max Planck Medal
+        - Short term studentship award, Indian council of Medical research (Ref. No.‑ 2019‑05283)
+    - year: 2021
+      items:
+        - Summer research fellowship award, the Indian and National academies of sciences (Id:LFS2592)
+    - year: 2023
+      items:
+        - Winner and finalist- Medical device hackathon, Indian institute Technology of Jodhpur(Preliminaries) and Indian Institute of Technology, Bombay(Finals)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Aging biology
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - The epigenetics of aging
+        - accumulation, clearence and the role of senescent cells in aging
+    - title: Biomedical engineering
       items:
-        - Description 1.
-        - Description 2.
+        - Nanotheranostic applications for aging
+        - Synthetic biology application for aging and regeneration
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Piano, Chess, Writing
