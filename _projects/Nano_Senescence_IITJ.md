@@ -5,6 +5,7 @@ description: This project involves the synthesis of mesoporous silica nanopartic
 img: assets/img/msnd_2.jpg
 importance: 1
 category: research
+duration: June, 2022- present
 ---
 
 
