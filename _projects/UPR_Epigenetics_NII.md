@@ -5,13 +5,24 @@ description: Identifying epigenetic regulators of proteostasis longevity in the 
 img: assets/img/ctrl_fused.jpeg
 importance: 2
 category: research
-Location: National Institute of Immunology, New Delhi
+
 ---
 
-I have completed the most extensive work during my time at the National Institute of Immunology, New Delhi. This project involved epigenetic regulators of Dietary restriction-mediated longevity of the Unfolded protein response in the Endoplasmic reticulum of C. elegans worms. 
-The abstract for the project is shown below.
+**Project background:** This project was started as a continuation of the research done at the molecular aging laboratory at National Institute of Immunology, New Delhi. The lab had previously shown that the dietary restriction model _eat-2(-)_ C. elegans worms had better unfolded protein responses (UPR) of the endoplasmic reticulum (ER) in adulthood, an increased health-span and lifespan because of a transient protein folding stress during larval development (L2 stage). However, the mechanism behind this hormetic response remained elusive. I hypothesized that the transient UPR stress induced a cellular memory during larval development which was epigenetic in nature. Therefore, I planned to conduct an RNA-interference screen that would knock down established epigenetic regulators in C. elegans and observe for the presence or absence of the same hormetic response in the _eat-2(-)_ worms. 
 
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+**Project importance:** The mechanisms through which dietary restriction promotes longevity have been investigated in much detail. However, this study showed that dietary restriction possibly establishes an epigenetic change upstream of proteostasis pathways in the ER which is maintained till adulthood to provide increased resistance against protein folding stresses.
+
+**Skills learned:**
+-	C. elegans handling, bleaching, crossing, stack preparation
+-	NGM media preparation
+-	Bacterial culture (primary, secondary), C. elegans feed preparation
+-	On-plate Dietary restriction protocols (peptone restriction, bacterial/solid dilution)
+-	Tunicamycin- UPR assay (induced UPR)
+-	PCR, Gel electrophoresis, Western Blotting
+-	Fluorescence microscopy (GFP-tagged hsp-4 chaperone for observing UPR activation).
+
+
+   
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,39 +41,17 @@ The abstract for the project is shown below.
 </div>
 <div class="caption">
     abstract of the project @ NII, New Delhi
+
 </div>
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/ctrl_fused.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+    eat-2(-);hsp-4::GFP C. elegans worms imaged through fluorescence microscopy on day 1 of adulthood after tuniucamycin treatment to induce UPR<sub>ER</sub>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+
+
