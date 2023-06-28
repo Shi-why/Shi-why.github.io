@@ -23,7 +23,6 @@ category: research
 
 
    
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Graphical_abstract_NII.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -42,7 +41,6 @@ category: research
 <div class="caption">
     abstract of the project @ NII, New Delhi
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style= "max-width: 50%; text-align: center;">
         {% include figure.html path="assets/img/ctrl_fused.png" title="example image" class="img-fluid rounded z-depth-1" %}
