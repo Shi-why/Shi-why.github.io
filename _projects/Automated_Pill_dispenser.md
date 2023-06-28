@@ -7,8 +7,11 @@ importance: 1
 category: innovation
 ---
 **Description:** This project aims to work on the solution for medication non-adherence and non-compliance among patients taking multiple treatments for long periods. Along with a team of other clinicians and engineers, I have gained interaction with interested investors and I am currently working on patenting our design and incorporating it into a startup. Although there are numerous automated pill dispensers available in Western societies, there is a lack of such devices in Indian settings, where there is a high prevalence of medication non-compliance due to barriers in medical communication and treatment understanding among patients. This pill dispenser will cater specifically to the needs of Indian healthcare, including medication intake and monitoring while also enabling geriatric patients with multi-morbidities to better conform to multiple treatments.
+
 **Device Need:** For organization, reminder, monitoring, and record-keeping of medication intake in patients with chronic conditions taking long-term treatments. 
+
 **Targeted users:** Elderly patients, Uneducated patients, Rural patients.
+
 **Current status:** Patent filing, prototype development, funding acquirement.
 
 
