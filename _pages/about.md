@@ -6,7 +6,7 @@ subtitle: M.B.B.S
 
 profile:
   align: right
-  image: profile_3.jpg
+  image: profile_3_cropped.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
