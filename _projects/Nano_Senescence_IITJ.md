@@ -18,7 +18,7 @@ duration: June, 2022- present
 -	Characterization of nanoparticles- Field emission scanning electron microscopy, Spectroscopy (UV-visible, Fourier transform infrared), Nitrogen absorption-desorption isotherm (Brunauer–Emmett–Teller) analysis for pore size and surface area analysis, Thermogravimetric analysis for amine group characterization.
 -	Cell Culture- Handling, passage, revival of cell lines (NIH/3T3, A549, SHSY5Y), cell counting, seeding, and treatment.
 -	Senescent cell experiments- H2O2 treatment for stress-induced premature senescence (SIPS), Doxorubicin treatment for chemotherapeutic induced senescence, X-gal staining for Senescence associated beta gal expression, Fluorescence-activated cell sorting for cell cycle arrest. 
--	Other nanoparticle syntheses- Gold nanoparticles, Gold nanorods, Carbon quantum dots.
+-	Other nanoparticle syntheses- Gold nanoparticles, Gold nanorods, Carbon quantum dots. 
 
 
 <div class="row">
