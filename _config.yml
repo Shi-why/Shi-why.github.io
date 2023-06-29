@@ -43,7 +43,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -120,9 +120,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Analogies and aging # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: I like to post about the science of aging as well explain complex concepts with analogies
+blog_name:  Aging science and analogies # blog_name will be displayed in your blog page
+blog_nav_title: Blog # Your blog must have a title for it to be displayed in the nav bar
+blog_description: I like to post about the science of aging as well as explain complex biological concepts with analogies
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -260,7 +260,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+display_tags: ['Aging', 'Longevity', 'Biology', 'Analogies'] # these tags will be displayed on the front page of your blog
 display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
