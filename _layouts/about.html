@@ -22,8 +22,13 @@ layout: default
               {% else %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
-                <img src="{{ profile_image_path }}" class="{{ profile_image_class }}" style="object-fit: cover; width: 200px; height: 200px;">
-              {% endif %}
+
+                
+              {% include figure.html
+              path=profile_image_path
+              class=profile_image_class
+              alt=page.profile.image -%}
+            {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
