@@ -7,7 +7,7 @@ subtitle: M.B.B.S
 profile:
   align: right
   image: profile_3_cropped.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
 
 news: true  # includes a list of news items
