@@ -41,13 +41,14 @@ category: research
 <div class="caption">
     abstract of the project @ NII, New Delhi
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0" style= "max-width: 50%; text-align: center;">
-        {% include figure.html path="assets/img/ctrl_fused.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ctrl_fused.png" title="example image" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption text-center">
     eat-2(-);hsp-4::GFP C. elegans worms imaged through fluorescence microscopy on day 1 of adulthood after tuniucamycin treatment to induce UPR<sub>ER</sub>
+</div>
 
 
 
