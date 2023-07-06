@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Research and innovation projects I have undertaken.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [research, innovation]
 horizontal: false
 ---
