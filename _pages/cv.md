@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: Cv
+title: CV
 nav: true
-nav_order: 3
+nav_order: 2
 cv_pdf: Shivay_Parihar_Resume.pdf
 ---
