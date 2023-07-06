@@ -2,7 +2,7 @@
 layout: page
 title: Epigenetics of ER-hormesis in dietary restricted C. elegans
 description: Identifying epigenetic regulators of proteostasis longevity in the Endoplasmic reticulum conferred by dietary restriction. 
-img: assets/img/ctrl_fused.jpeg
+img: assets/img/ctrl_fused_2.jpeg
 importance: 2
 category: research
 
