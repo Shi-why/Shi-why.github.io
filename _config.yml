@@ -228,6 +228,13 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+nav:
+  - {url: /, title: Home}
+  - {url: /about/, title: About}
+  - {url: /publications/, title: Publications}
+  - {url: /projects/, title: Projects}
+  - {url: /cv/, title: CV}
+  - {url: /blog/, title: Blog} 
 
 # Sitemap settings
 defaults:
@@ -235,6 +242,8 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+
+ 
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
