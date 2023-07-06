@@ -374,6 +374,14 @@ enable_progressbar:         true   # enables a horizontal progress bar linked to
 # Library versions
 # -----------------------------------------------------------------------------
 
+nav:
+  - {url: /, title: Home}
+  - {url: /about/, title: About}
+  - {url: /publications/, title: Publications}
+  - {url: /projects/, title: Projects}
+  - {url: /cv/, title: CV}
+  - {url: /blog/, title: Blog}
+
 academicons:
   version: "1.9.1"
   integrity: "sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg="
