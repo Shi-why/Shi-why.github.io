@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Epidemiology of Premature graying of hair
-description: 
+description: A cross-sectional study on prevalence and factors associated with hair graying at a young age.
 img: assets/img/PHG_image.jpg
 importance: 3
 category: research
