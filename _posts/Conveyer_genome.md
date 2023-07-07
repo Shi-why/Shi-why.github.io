@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  a post with images
-date: 2015-05-15 21:01:00
-description: this is what included images could look like
-tags: formatting images
-categories: sample-posts
+title:  The conveyer DNA
+date: 2023-07-08 
+description: 
+tags: Epigenetics
+categories: Biology analogy
 thumbnail: assets/img/9.jpg
 ---
 This is an example post with image galleries.
