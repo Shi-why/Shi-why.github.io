@@ -130,7 +130,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -228,13 +228,6 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-nav:
-  - {url: /, title: Home}
-  - {url: /about/, title: About}
-  - {url: /publications/, title: Publications}
-  - {url: /projects/, title: Projects}
-  - {url: /cv/, title: CV}
-  - {url: /blog/, title: Blog} 
 
 # Sitemap settings
 defaults:
@@ -278,8 +271,8 @@ display_categories: # these categories will be displayed on the front page of yo
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Parihar]
+  first_name: [Shivay]
 
   style: apa
   locale: en
