@@ -4,7 +4,7 @@ title:  The conveyer DNA
 date: 2023-07-08 
 description: 
 tags: Epigenetics
-categories: Biology analogy
+categories: sample-posts
 thumbnail: assets/img/9.jpg
 ---
 This is an example post with image galleries.
