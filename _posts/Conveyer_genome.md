@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  The conveyer DNA
-date: 2023-07-08 
-description: 
+date: 2023-07-08 16:40:20
+description: A post on explaining the packaging of DNA.
 tags: Epigenetics
 categories: sample-posts
 thumbnail: assets/img/9.jpg
