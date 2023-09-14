@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Research and innovation projects I have undertaken.
+description: Over the last five years, I have been fascinated by research. This has enabled me to pursue clinical research, research in aging biology, and more recently research in nanomedicine. Finally, I have also pursued a new area of innovation, which is medical device development. In the links below, you can find the details of my ventures.
 nav: true
 nav_order: 3
 display_categories: [research, innovation]
