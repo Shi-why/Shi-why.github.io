@@ -3,8 +3,8 @@ layout: default
 title: Blog
 pagination:
   enabled: true
-  collection: newposts
-  permalink: /newposts/page/:num/
+  collection: posts
+  permalink: /page/:num/
   per_page: 5
   sort_field: date
   sort_reverse: true
@@ -52,7 +52,7 @@ pagination:
   {% endif %}
 
   <ul class="post-list">
-    {% for post in paginator.newposts %}
+    {% for post in paginator.posts %}
 
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
