@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The conveyor DNA
-date: 2015-10-20 11:12:00-0400
+date: 201-10-20 11:12:00-0400
 description: A post on explaining the packaging of DNA.
-tags: Epigenetics
+tags: false
 categories: sample-posts
 related_posts: false
 ---
