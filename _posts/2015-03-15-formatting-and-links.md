@@ -6,25 +6,52 @@ description: march & april, looking forward to summer
 tags: formatting links
 categories: sample-posts
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The structure of nucleosomes in chromatin has been given a very interesting analogy-
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+“The beads on a string” appearance:
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/chromatin structure.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Here the actual diagrammatic representation of chromatin can be visualized.
+</div>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+But can this structural analogy explain the function of the nucleosome?
+In this post, I will show you how to imagine, what the actual function of the nucleosome is in our DNA. 
 
-<hr>
+For this, I want you to imagine our DNA was a conveyor belt(literally!). 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/image2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+   This is an actual conveyor belt from an airport I recently traveled to.
+</div>
+A conveyor belt of information! This information from our DNA should not be accessible at all times. 
+Essentially this information would contain the sequence for synthesizing different proteins or making regulatory RNAs from the source code (yes, DNA!). Now, the cell contains all these information-extracting enzymes (transcription factors, RNA polymerases) that can recognize openly accessible sites of DNA. It is the job of the chromatin to hide away parts of the DNA and make available only specific parts to these extractors (Euchromatin and Heterochromatin). 
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+So how does the chromatin do that to 3 billion base pairs of DNA?
+Well, if you had to hide away a spot on the conveyor belt such as the one below, how would you do it?
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/image4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+Yes! you would, in fact, place a bag/suitcase on it. Not only that, you could place multiple bags on the entire conveyor belt.
+These bags are just like nucleosomes, consisting of special proteins (Histones) that can be placed onto the openly accessible conveyor (DNA).
+Then there can be two different types of conveyor belts.
+One with lots of bags: This symbolizes a restricted dna sequence to turn down the effect of certain genes(In other words the Heterochromatin).
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/image3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+while a rather empty one would symbolize a more accessible dna to increase the production of specific proteins.
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/image1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+The bags are added and removed by people. Who do the people represent?- One of the coolest enzymes in our cells- chromatin modifying enzymes, which can place these luggage-like nucleosomes along different dna sequences.
