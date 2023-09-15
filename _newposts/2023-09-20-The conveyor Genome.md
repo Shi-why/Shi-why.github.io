@@ -4,6 +4,7 @@ title: The conveyor Genome
 date: 2023-09-20 11:12:00
 description: An analogy for understanding how nucleosomes cover chromatin.
 categories: sample-posts external-services
+tags: Epigenetics
 related_posts: false
 ---
 The structure of nucleosomes in chromatin has been given a very interesting analogy-
