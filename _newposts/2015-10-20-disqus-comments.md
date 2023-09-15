@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The conveyor Genome
-date: 2023-09-20 11:12:00-0400
+date: 2023-09-20 11:12:00
 description: An analogy for understanding how nucleosomes cover chromatin.
 categories: sample-posts external-services
 related_posts: false
