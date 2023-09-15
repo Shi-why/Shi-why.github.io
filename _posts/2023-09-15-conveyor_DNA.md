@@ -1,10 +1,9 @@
 ---
 layout: post
 title: The conveyor DNA
-date: 201-10-20 11:12:00-0400
+date: 2023-09-20 11:12:00-0400
 description: A post on explaining the packaging of DNA.
 tags: false
-categories: sample-posts
 related_posts: false
 ---
 The structure of nucleosomes in chromatin has been given a very interesting analogy-
