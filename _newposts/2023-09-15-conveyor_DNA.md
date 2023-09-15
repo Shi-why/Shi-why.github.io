@@ -40,6 +40,7 @@ Well, if you had to hide away a spot on the conveyor belt such as the one below,
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/image4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
 Yes! you would, in fact, place a bag/suitcase on it. Not only that, you could place multiple bags on the entire conveyor belt.
 These bags are just like nucleosomes, consisting of special proteins (Histones) that can be placed onto the openly accessible conveyor (DNA).
 Then there can be two different types of conveyor belts.
