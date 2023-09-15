@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Nucleosomes and conveyers
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
+title:  Nucleosomes and conveyors
+date:   2023-09-15 16:40:16
+description: An analogy for describing the function of nucleosomes in packaging DNA.
 tags: formatting links
 categories: sample-posts
 ---
