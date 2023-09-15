@@ -173,8 +173,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
-collections:
   newposts:
     output: true
     permalink: /newposts/:path/
