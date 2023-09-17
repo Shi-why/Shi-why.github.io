@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://shi-why.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shi-why.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-17T11:22:32+00:00</updated><id>https://shi-why.github.io/feed.xml</id><title type="html">Shivay Parihar</title><subtitle>This website is the personal portfolio of Shivay Parihar
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://shi-why.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shi-why.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-17T11:26:45+00:00</updated><id>https://shi-why.github.io/feed.xml</id><title type="html">Shivay Parihar</title><subtitle>This website is the personal portfolio of Shivay Parihar
 </subtitle><entry><title type="html">Nucleosomes and conveyors</title><link href="https://shi-why.github.io/blog/2023/formatting-and-links/" rel="alternate" type="text/html" title="Nucleosomes and conveyors" /><published>2023-09-15T16:40:16+00:00</published><updated>2023-09-15T16:40:16+00:00</updated><id>https://shi-why.github.io/blog/2023/formatting-and-links</id><content type="html" xml:base="https://shi-why.github.io/blog/2023/formatting-and-links/"><![CDATA[<p>The structure of nucleosomes in chromatin has been given a very interesting analogy-</p>
 
 <p>“The beads on a string” appearance:</p>
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 10%">
         <figure>
 
   <picture>
@@ -14,7 +14,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/chromatin%20structure.jpg" class="img-fluid rounded max-width: 100px z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/chromatin%20structure.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
