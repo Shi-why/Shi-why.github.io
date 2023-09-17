@@ -10,8 +10,8 @@ The structure of nucleosomes in chromatin has been given a very interesting anal
 
 “The beads on a string” appearance:
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chromatin structure.jpg" class="img-fluid rounded max-width: 100px z-depth-1" zoomable=true %}
+    <div class="col-sm mt-3 mt-md-0" style= "max-width: 10%">
+        {% include figure.html path="assets/img/chromatin structure.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
