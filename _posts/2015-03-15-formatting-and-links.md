@@ -24,7 +24,7 @@ In this post, I will show you how to imagine, what the actual function of the nu
 For this, I want you to imagine our DNA was a conveyor belt(literally!). 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/image2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/image2.jpg" class="img-fluid rounded z-depth-1 max-width: 500px" zoomable=true %}
     </div>
 </div>
 <div class="caption">
