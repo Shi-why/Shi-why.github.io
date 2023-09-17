@@ -4,7 +4,6 @@ title:  Nucleosomes and conveyors
 date:   2023-09-15 16:40:16
 description: An analogy for describing the function of nucleosomes in packaging DNA.
 tags: Epigenetics analogy
-categories: sample-posts
 ---
 The structure of nucleosomes in chromatin has been given a very interesting analogy-
 
