@@ -3,14 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: M.B.B.S
-<head>
-  <style>
-    .profile-image {
-      max-width: 50%;
-      height: auto;
-    }
-  </style>
-</head>
+
 profile:
   align: right
   image: profile_3_cropped.jpg
