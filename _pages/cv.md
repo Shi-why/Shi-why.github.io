@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: Shivay_Parihar_Resume_2.pdf
+cv_pdf: Shivay_Parihar_CV.pdf
 ---
