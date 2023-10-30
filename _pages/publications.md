@@ -6,6 +6,7 @@ description: Here is a list of my peer-reviewed publications.
 years: [2023,2021]
 nav: true
 nav_order: 1
+conference_presentations_enabled: true
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
@@ -14,5 +15,9 @@ nav_order: 1
   <h2 class="year">{{y}}</h2>
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
 {% endfor %}
+<div class="conference-presentations">
+
+{%- bibliography -f {{ site.scholar.bibliography }} -q @*[type=conference-presentation]* %}
+
 
 </div>
