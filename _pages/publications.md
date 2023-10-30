@@ -14,6 +14,8 @@ nav_order: 1
   <h2 class="year">{{y}}</h2>
   <h3>Publications</h3>
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
+  <h3>Conference Proceedings</h3>
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
 
 {% endfor %}
 
