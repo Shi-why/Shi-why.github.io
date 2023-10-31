@@ -1,21 +1,19 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications and Conference Proceedings.
+title: Publications.
 description: Here is a list of my peer-reviewed publications and conference proceedings.
-years: [2023,2021]
 nav: true
 nav_order: 1
 ---
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  <h3>Publications</h3>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}} and type=publication]* %}
-  <h3>Conference Proceedings</h3>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}} and type=conference]* %}
-{% endfor %}
+<h2>Papers</h2>
+{% bibliography -f {{ site.scholar.bibliography }} -q @*[type=paper]* %}
+
+<h2>Conference Proceedings</h2>
+{% bibliography -f {{ site.scholar.bibliography }} -q @*[type=conference]* %}
 
 </div>
