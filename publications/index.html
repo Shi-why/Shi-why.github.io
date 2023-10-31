@@ -141,7 +141,19 @@
         <div class="author">
         
 
-        </div>
+        Shivay<b> <b>Parihar, Manoj Verma, Savitri Sharma, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Rita Meena' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>&lt;/div&gt;
 
         <!-- Journal/Book title and date -->
         
@@ -165,14 +177,13 @@
           </div>
 
           
-        </div>
-      </div>
-</li></ol>
+        &lt;/div&gt;
+      &lt;/div&gt;
+&lt;/li&gt;&lt;/ol&gt;
 
 
   <h2 class="year">2021</h2>
-  <ol class="bibliography">
-<li>
+  <ol class="bibliography"><li>
 <!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge">Jfmpc</abbr></div>
@@ -185,7 +196,7 @@
         <div class="author">
         
 
-        S. Parihar, RJ Kaur, and S. Singh</div>
+        S.<b> <b>Parihar, RJ Kaur, and S. Singh&lt;/div&gt;
 
         <!-- Journal/Book title and date -->
         
@@ -209,9 +220,9 @@
           </div>
 
           
-        </div>
-      </div>
-</li>
+        &lt;/div&gt;
+      &lt;/div&gt;
+&lt;/li&gt;
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
@@ -225,7 +236,7 @@
         <div class="author">
         
 
-        </div>
+         <b>Shivay Parihar<b>(presenter) and Arnab Mukhopadhyay and Simran Motwani and Jasleen&lt;/div&gt;
 
         <!-- Journal/Book title and date -->
         
@@ -239,6 +250,7 @@
 
           <!-- Links/Buttons -->
           <div class="links">
+                <a href="/assets/pdf/NRBCOM%20CERTIFICATE.jpg" class="btn btn-sm z-depth-0" role="button">Certificate</a>
           </div>
           
           <div class="badges">
@@ -247,13 +259,26 @@
           </div>
 
           
-        </div>
-      </div>
-</li>
-</ol>
+        &lt;/div&gt;
+      &lt;/div&gt;
+&lt;/li&gt;&lt;/ol&gt;
 
 
 
+&lt;/div&gt;
+</b></b>
+</div>
+</div>
+</div>
+</li></b></b>
+</div>
+</div>
+</div>
+</li></ol></b></b>
+</div>
+</div>
+</div>
+</li></ol>
 </div>
 
           </article>
