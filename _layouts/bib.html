@@ -168,6 +168,13 @@
                 <a href="{{ entry.certificate | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Certificate</a>
                 {%- endif %}
           {%- endif %} 
+          {%- if entry.project %}
+              {% if entry.project contains '://' -%}
+              <a href="{{ entry.project }}" class="btn btn-sm z-depth-0" role="button">Project</a>
+              {%- else -%}
+              <a href="{{ entry.project | relative_url }}" class="btn btn-sm z-depth-0" role="button">Project</a>
+              {%- endif %}
+          {%- endif %}
           {%- if entry.blog %}
             <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
           {%- endif %}
