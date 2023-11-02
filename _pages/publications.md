@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications.
+title: Publications
 description: Below is the list of my publications(published and under preparation) along with conference proceedings.
 nav: true
 years: [2023,2021,2018]
