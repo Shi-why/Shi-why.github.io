@@ -22,6 +22,10 @@ layout: default
               {% else %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
+              {%- assign profile_image_style = "" -%}
+              {%- if page.profile.width %}{%- assign profile_image_style = profile_image_style | append: "width: " | append: page.profile.width | append: ";" -%}{%- endif %}
+              {%- if page.profile.height %}{%- assign profile_image_style = profile_image_style | append: "height: " | append: page.profile.height | append: ";" -%}{%- endif %}
+
 
                 
               {% include figure.html
