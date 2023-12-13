@@ -25,13 +25,9 @@ layout: default
               {%- assign profile_image_style = "" -%}
               {%- if page.profile.width %}{%- assign profile_image_style = profile_image_style | append: "width: " | append: page.profile.width | append: ";" -%}{%- endif %}
               {%- if page.profile.height %}{%- assign profile_image_style = profile_image_style | append: "height: " | append: page.profile.height | append: ";" -%}{%- endif %}
+              <img src="{{ site.baseurl }}/assets/{{ page.profile.image }}" width="{{ page.profile.width }}" height="{{ page.profile.height }}" alt="Profile Image" style="width: {{ page.profile.width }}; height: {{ page.profile.height }};">
+                       
 
-
-                
-              {% include figure.html
-              path=profile_image_path
-              class=profile_image_class
-              alt=page.profile.image -%}
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
