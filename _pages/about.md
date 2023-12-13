@@ -5,7 +5,9 @@ permalink: /
 subtitle: M.B.B.S
 profile:
   align: right
-  image: <img src="profile_crop.jpg" width="50%" height="50%" alt="Profile Picture">
+  image: profile_crop.jpg
+  width: "50%"
+  height: "50%"
   image_circular: false
 
 news: true  # includes a list of news items
