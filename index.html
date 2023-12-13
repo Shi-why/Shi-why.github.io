@@ -127,16 +127,32 @@
         </header>
 
         <article>
-          
+          <div class="profile float-right">
+
+                
+              <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/profile_3_cropped-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/profile_3_cropped-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/profile_3_cropped-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/profile_3_cropped.jpg" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="profile_3_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+            <div class="address">
+              
+            </div>
+          </div>
 
           <div class="clearfix">
-            <p>profile:
-  align: right
-  image: profile_3_cropped.jpg 
-  image_circular: false # crops the image to make it circular
-  address: &gt;</p>
-
-<p>news: true  # includes a list of news items
+            <p>news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as “selected={true}”
 social: true  # includes social icons at the bottom of the page
