@@ -1066,8 +1066,8 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
 
 /* Add these lines at the end of your main.scss file */
 .post .profile img {
-  width: 10% !important; /* Adjust the width as needed */
-  height: 10% !important; /* Adjust the height as needed */
+  width: 70% !important; /* Adjust the width as needed */
+  height: 70% !important; /* Adjust the height as needed */
 }
 
 /*# sourceMappingURL=main.css.map */
