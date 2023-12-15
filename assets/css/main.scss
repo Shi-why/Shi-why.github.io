@@ -18,3 +18,8 @@ $max-content-width: {{ site.max_width }};
   font-size: 16px; // Adjust the font size as needed
   margin-top: 10px; // Add some space above the link
 }
+/* Add these lines at the end of your main.scss file */
+.post .profile img {
+  width: 10% !important; /* Adjust the width as needed */
+  height: 10% !important; /* Adjust the height as needed */
+}
